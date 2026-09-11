@@ -1,4 +1,4 @@
-# gemini-lector
-ez 1 evening program to send gemini "make this 1 hour mp3/m4a/(put here any variable) u want" and move it into Obsi
+# ai-lector
+ez program to send to whisper+llm by API or  "make this 1 hour mp3/m4a/(put here any variable u want) to lecture" and move it into Obsi
 
-u'll have free gemini API, all u need is aistudio.google.com
+u needa have free gemini API key( all u need is aistudio.google.com) or local models such as whisper.cpp and llamacpp
